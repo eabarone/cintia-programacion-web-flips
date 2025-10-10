@@ -2,10 +2,10 @@
   "pageCount": 12,
   "pages": [
     {
-      "src": "./images/page-1-ef1498e1.webp"
+      "src": "./images/page-1-b92242bc.webp"
     },
     {
-      "src": "./images/page-2-f00a84c0.webp"
+      "src": "./images/page-2-841bed87.webp"
     },
     {
       "src": "./images/page-3-626c3201.webp"
@@ -17,19 +17,19 @@
       "src": "./images/page-5-69355459.webp"
     },
     {
-      "src": "./images/page-6-4595f202.webp"
+      "src": "./images/page-6-92d1c8b9.webp"
     },
     {
-      "src": "./images/page-7-cc018693.webp"
+      "src": "./images/page-7-8694fe03.webp"
     },
     {
-      "src": "./images/page-8-1ea7a59f.webp"
+      "src": "./images/page-8-0e556da6.webp"
     },
     {
-      "src": "./images/page-9-962ababe.webp"
+      "src": "./images/page-9-533d187c.webp"
     },
     {
-      "src": "./images/page-10-8e0262f0.webp"
+      "src": "./images/page-10-2a3c53cb.webp"
     },
     {
       "src": "./images/page-11-a6f2f878.webp"
@@ -38,19 +38,19 @@
       "src": "./images/page-12-9aede5d7.webp"
     }
   ],
-  "generatedAt": "2025-10-08T19:46:18.526Z",
+  "generatedAt": "2025-10-10T21:35:49.446Z",
   "source": "Guía #3.pdf",
   "integrity": {
-    "images/page-1-ef1498e1.webp": "ef1498e1",
-    "images/page-2-f00a84c0.webp": "f00a84c0",
+    "images/page-1-b92242bc.webp": "b92242bc",
+    "images/page-2-841bed87.webp": "841bed87",
     "images/page-3-626c3201.webp": "626c3201",
     "images/page-4-cc821835.webp": "cc821835",
     "images/page-5-69355459.webp": "69355459",
-    "images/page-6-4595f202.webp": "4595f202",
-    "images/page-7-cc018693.webp": "cc018693",
-    "images/page-8-1ea7a59f.webp": "1ea7a59f",
-    "images/page-9-962ababe.webp": "962ababe",
-    "images/page-10-8e0262f0.webp": "8e0262f0",
+    "images/page-6-92d1c8b9.webp": "92d1c8b9",
+    "images/page-7-8694fe03.webp": "8694fe03",
+    "images/page-8-0e556da6.webp": "0e556da6",
+    "images/page-9-533d187c.webp": "533d187c",
+    "images/page-10-2a3c53cb.webp": "2a3c53cb",
     "images/page-11-a6f2f878.webp": "a6f2f878",
     "images/page-12-9aede5d7.webp": "9aede5d7"
   }

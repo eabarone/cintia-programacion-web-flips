@@ -2,25 +2,25 @@
   "pageCount": 9,
   "pages": [
     {
-      "src": "./images/page-1-ef1498e1.webp"
+      "src": "./images/page-1-882aa03b.webp"
     },
     {
-      "src": "./images/page-2-6bda35ec.webp"
+      "src": "./images/page-2-6f98da9f.webp"
     },
     {
       "src": "./images/page-3-93126268.webp"
     },
     {
-      "src": "./images/page-4-9b199ae5.webp"
+      "src": "./images/page-4-7f380777.webp"
     },
     {
-      "src": "./images/page-5-f5aef924.webp"
+      "src": "./images/page-5-a6baa0f7.webp"
     },
     {
       "src": "./images/page-6-4c4d0a9c.webp"
     },
     {
-      "src": "./images/page-7-911a380b.webp"
+      "src": "./images/page-7-b232976b.webp"
     },
     {
       "src": "./images/page-8-8d8f4277.webp"
@@ -29,16 +29,16 @@
       "src": "./images/page-9-3130d8dc.webp"
     }
   ],
-  "generatedAt": "2025-10-08T19:42:54.587Z",
+  "generatedAt": "2025-10-10T21:35:29.802Z",
   "source": "Guía #2.pdf",
   "integrity": {
-    "images/page-1-ef1498e1.webp": "ef1498e1",
-    "images/page-2-6bda35ec.webp": "6bda35ec",
+    "images/page-1-882aa03b.webp": "882aa03b",
+    "images/page-2-6f98da9f.webp": "6f98da9f",
     "images/page-3-93126268.webp": "93126268",
-    "images/page-4-9b199ae5.webp": "9b199ae5",
-    "images/page-5-f5aef924.webp": "f5aef924",
+    "images/page-4-7f380777.webp": "7f380777",
+    "images/page-5-a6baa0f7.webp": "a6baa0f7",
     "images/page-6-4c4d0a9c.webp": "4c4d0a9c",
-    "images/page-7-911a380b.webp": "911a380b",
+    "images/page-7-b232976b.webp": "b232976b",
     "images/page-8-8d8f4277.webp": "8d8f4277",
     "images/page-9-3130d8dc.webp": "3130d8dc"
   }
