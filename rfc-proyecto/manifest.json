@@ -1,0 +1,45 @@
+{
+  "pageCount": 9,
+  "pages": [
+    {
+      "src": "./images/page-1-7678ec70.png"
+    },
+    {
+      "src": "./images/page-2-f386e8af.png"
+    },
+    {
+      "src": "./images/page-3-23f5c4ab.png"
+    },
+    {
+      "src": "./images/page-4-e4ba8029.png"
+    },
+    {
+      "src": "./images/page-5-babfc5ca.png"
+    },
+    {
+      "src": "./images/page-6-a1f378a6.png"
+    },
+    {
+      "src": "./images/page-7-4d6e4cd0.png"
+    },
+    {
+      "src": "./images/page-8-8a345c4b.png"
+    },
+    {
+      "src": "./images/page-9-81197097.png"
+    }
+  ],
+  "generatedAt": "2025-11-13T22:20:02.684Z",
+  "source": "RFC.docx.pdf",
+  "integrity": {
+    "images/page-1-7678ec70.png": "7678ec70",
+    "images/page-2-f386e8af.png": "f386e8af",
+    "images/page-3-23f5c4ab.png": "23f5c4ab",
+    "images/page-4-e4ba8029.png": "e4ba8029",
+    "images/page-5-babfc5ca.png": "babfc5ca",
+    "images/page-6-a1f378a6.png": "a1f378a6",
+    "images/page-7-4d6e4cd0.png": "4d6e4cd0",
+    "images/page-8-8a345c4b.png": "8a345c4b",
+    "images/page-9-81197097.png": "81197097"
+  }
+}
